@@ -1,7 +1,6 @@
 // add solution here
 function theBeatlesPlay(artist, instrument) {
   var arr=[];
-
 }
 
 
