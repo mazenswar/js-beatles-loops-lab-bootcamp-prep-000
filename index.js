@@ -10,5 +10,8 @@ return arr;
 }
 
 function johnLennonFacts(arr) {
-  while()
+  while(i < arr.length) {
+    arr[i].concat('!!!');
+    i++;
+  }
 }
