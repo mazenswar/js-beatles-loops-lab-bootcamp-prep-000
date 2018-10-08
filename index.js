@@ -7,7 +7,7 @@ function theBeatlesPlay(artist, instrument) {
        arr.push(`${artist[i]} plays ${instrument[i]}`)
 
   }
-
+return arr;
   
 }
 
