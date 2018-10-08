@@ -12,7 +12,7 @@ return arr;
 function johnLennonFacts(arr) {
   let i=0;
   while(i < arr.length) {
-    arr[i].push('!!!');
+    arr[i].concat('!!!');
     i++;
   }
   return arr;
